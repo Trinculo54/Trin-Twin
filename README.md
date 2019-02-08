@@ -1,2 +1,1 @@
-# Trin-Twin
-HELLO WORLD
+<button id="logo-doodle-notifier" title="Click to view today's doodle"><div class="outer ball0"><div class="inner"></div></div><div class="outer ball1"><div class="inner"></div></div><div class="outer ball2"><div class="inner"></div></div><div class="outer ball3"><div class="inner"></div></div></button>
